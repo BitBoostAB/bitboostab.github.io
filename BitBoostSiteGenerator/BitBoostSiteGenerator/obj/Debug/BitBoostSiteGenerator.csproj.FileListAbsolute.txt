@@ -1,0 +1,11 @@
+C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\bin\Debug\BitBoostSiteGenerator.exe.config
+C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\bin\Debug\BitBoostSiteGenerator.exe
+C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\bin\Debug\BitBoostSiteGenerator.pdb
+C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\obj\Debug\BitBoostSiteGenerator.csprojResolveAssemblyReference.cache
+C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\obj\Debug\BitBoostSiteGenerator.exe
+C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\obj\Debug\BitBoostSiteGenerator.pdb
+C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\obj\Debug\BitBoostSiteGenerator.Localization.Translations.resources
+C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\obj\Debug\BitBoostSiteGenerator.Localization.Translations.sv-SE.resources
+C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\obj\Debug\BitBoostSiteGenerator.csproj.GenerateResource.Cache
+C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\bin\Debug\sv-SE\BitBoostSiteGenerator.resources.dll
+C:\FilesTemp\bitboostab.github.io\BitBoostSiteGenerator\BitBoostSiteGenerator\obj\Debug\sv-SE\BitBoostSiteGenerator.resources.dll
